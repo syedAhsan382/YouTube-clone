@@ -130,7 +130,7 @@ youtube-clone/
 
 ## 📸 Screenshots
 
-![YouTube Clone Screenshot](screenshots/preview.png)
+![YouTube Clone Screenshot](preview.png)
 
 ---
 
