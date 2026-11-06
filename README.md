@@ -6,7 +6,7 @@ A fully responsive YouTube homepage clone built using **pure HTML and CSS** — 
 
 ## 🔗 Live Preview
 
-> Open `index.html` in your browser to view the project locally.
+> https://you-tube-clone-eight-tau.vercel.app
 
 ---
 
@@ -134,9 +134,18 @@ youtube-clone/
 
 ---
 
+## Possible Improvements
+ 
+- Add dark theme and device default theme in this project
+- Add content on every button that is Explore, YouTube Originals, and Library in the future
+- Option for making sidebar hide or visible
+- Add more content on the Homepage
+
+---
+  
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**Syed Ahsan**  
 [GitHub](https://github.com/syedAhsan382) • [LinkedIn](www.linkedin.com/in/syed-muhammad-ahsan-263ab8351)
 
 ---
