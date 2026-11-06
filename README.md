@@ -146,7 +146,7 @@ youtube-clone/
 ## 🙋‍♂️ Author
 
 **Syed Ahsan**  
-[GitHub](https://github.com/syedAhsan382) • [LinkedIn](www.linkedin.com/in/syed-muhammad-ahsan-263ab8351)
+[GitHub](https://github.com/syedAhsan382) • [LinkedIn](https://www.linkedin.com/in/syed-muhammad-ahsan-263ab8351/)
 
 ---
 
